@@ -43,15 +43,6 @@ print(f"Hello, {name}! Welcome to my code.")
 </body>
 </html>
 ```
-
-## Projects
-
-| Project Name        | Description                           | Link                                                |
-| ------------------- | ------------------------------------- | --------------------------------------------------- |
-| My First Webpage    | A simple HTML page introducing myself | [View](https://github.com/amar/my-first-webpage)    |
-| Python Greeting App | Python program to greet users         | [View](https://github.com/amar/python-greeting-app) |
-| Blox Fruits Helper  | Small tool for Blox Fruits game       | [View](https://github.com/amar/blox-fruits-helper)  |
-
 ## Personal Images
 
 *(Images without showing my face can go here)*
