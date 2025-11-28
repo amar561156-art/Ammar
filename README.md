@@ -1,3 +1,4 @@
+![Animated Header](assets/animated-header.gif)
 # Amar Ahmed 👋
 
 <code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python-oop/python-oop.svg"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
