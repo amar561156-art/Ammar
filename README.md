@@ -1,51 +1,22 @@
 # Amar Ahmed 👋
+### Hola I'm Ahmed Adel! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/amar?label=Follow\&style=social) ![Python](https://img.shields.io/badge/Python-brown?style=flat-square\&logo=python) ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square\&logo=html5)
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning  more about web development
+- 👯 I’m looking to collaborate on start up
+- 💬 Ask me about Flutter or Android
+- 📫 How to reach me: Twitter
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: listenig song
 
-## About Me
+![flutter_head](https://user-images.githubusercontent.com/42499242/104351938-b8026580-550e-11eb-9b2e-4421a1929ec1.png)
 
-Hi! I'm **Amar Ahmed**, a **10-year-old beginner web developer** from **Egypt**, currently in **6th grade**. I love **web development**, **football**, **anime**, and **gaming**.
 
-**Goal:** Become a pro web developer and build awesome apps! 🚀
+**Languages and Tools:**  
 
-## Skills & Learning
-
-* **Currently Learning:** HTML, CSS, JavaScript, GitHub
-* **Interests in Development:** Web Development
-
-## Fun Facts
-
-* ⚽ Favorite Team: Al Ahly SC
-* 🎮 Gaming: Blox Fruits – Swordsman
-
-## Sample Code
-
-### Python
-
-```python
-# Simple greeting program
-name = input("What's your name? ")
-print(f"Hello, {name}! Welcome to my code.")
-```
-
-### HTML
-
-```html
-<!-- Simple web page -->
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Amar's Page</title>
-</head>
-<body>
-    <h1>Hello, I'm Amar Ahmed!</h1>
-    <p>Welcome to my beginner web development page.</p>
-</body>
-</html>
-```
-## Personal Images
-
-*(Images without showing my face can go here)*
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 ## Contact
 
